@@ -2,21 +2,17 @@
 <div align="center">
   
 # 👋 Hi, I'm Muhich!
-### Aspiring Frontend Developer
+### Aspiring Full Stack developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E86C1&width=435&lines=HTML+%7C+CSS+%7C+JavaScript;Learning+React+%26+TypeScript;Passionate+about+UI+%F0%9F%92%96)](https://git.io/typing-svg)
 
 </div>
 
 <!-- About -->
 ## 🧑‍💻 About Me
-- 🌱 I'm currently learning **JavaScript and modern frontend development**
-- 🎯 My goal is to become a professional **Frontend Developer**
+- 🌱 I'm currently learning **JavaScript and modern Full Stack developer tools**
+- 🎯 My goal is to become a professional **Full Stack developer**
 - 👨‍💻 I'm building projects to practice and showcase my skills
 - 📚 Learning from online courses, documentation, and coding challenges
-- 💬 Feel free to ask me about **HTML, CSS, or beginner JavaScript**
-- ⚡ Fun fact: I enjoy [your hobby, e.g., gaming, photography, hiking]
-
 <!-- Tech Stack -->
 ## 🛠️ My Tech Stack
 
@@ -30,19 +26,21 @@
 **Planning to Learn:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
+**My OS**
+<!-- ОС -->
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 <div align="center">
   
 
 
 </div>
-
-<!-- Projects -->
-## 🚀 My Projects
 
 
 
@@ -59,8 +57,13 @@
 
 <!-- Footer -->
 ---
-<div align="center">
-  
-⭐️ From [your-username](https://github.com/your-username)
+![Stats](https://github-readme-stats.vercel.app/api?username=abdurakhmanov787-prog&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
 
-</div>
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=abdurakhmanov787-prog&theme=github)
+
+
+## 📞 Connect With Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurakhmanov787@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdurakhmanov787-prog)
