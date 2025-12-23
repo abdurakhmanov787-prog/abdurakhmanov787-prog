@@ -57,9 +57,7 @@
 
 <!-- Footer -->
 ---
-![Stats](https://github-readme-stats.vercel.app/api?username=abdurakhmanov787-prog&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=abdurakhmanov787-prog&theme=github)
 
 
 ## 📞 Connect With Me
